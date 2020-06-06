@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/rbroida/SpaceGame-web-Pipeline/_apis/build/status/SirEel.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/rbroida/SpaceGame-web-Pipeline/_build/latest?definitionId=26&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
